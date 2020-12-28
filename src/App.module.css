@@ -1,0 +1,9 @@
+div.app {
+    text-align: center;
+    font-family: Arial;
+    margin: 4px; 
+}
+
+div.app input, div.app button {
+    padding: 4px;
+}
